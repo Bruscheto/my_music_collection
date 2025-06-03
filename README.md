@@ -1,3 +1,3 @@
-# my_scores
+# my_music_collection
 
 Happy practicing!
